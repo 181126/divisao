@@ -1,0 +1,15 @@
+C:\Users\2022102020077\source\repos\lp1403\lp1403\bin\Debug\net6.0\lp1403.exe
+C:\Users\2022102020077\source\repos\lp1403\lp1403\bin\Debug\net6.0\lp1403.deps.json
+C:\Users\2022102020077\source\repos\lp1403\lp1403\bin\Debug\net6.0\lp1403.runtimeconfig.json
+C:\Users\2022102020077\source\repos\lp1403\lp1403\bin\Debug\net6.0\lp1403.dll
+C:\Users\2022102020077\source\repos\lp1403\lp1403\bin\Debug\net6.0\lp1403.pdb
+C:\Users\2022102020077\source\repos\lp1403\lp1403\obj\Debug\net6.0\lp1403.csproj.AssemblyReference.cache
+C:\Users\2022102020077\source\repos\lp1403\lp1403\obj\Debug\net6.0\lp1403.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2022102020077\source\repos\lp1403\lp1403\obj\Debug\net6.0\lp1403.AssemblyInfoInputs.cache
+C:\Users\2022102020077\source\repos\lp1403\lp1403\obj\Debug\net6.0\lp1403.AssemblyInfo.cs
+C:\Users\2022102020077\source\repos\lp1403\lp1403\obj\Debug\net6.0\lp1403.csproj.CoreCompileInputs.cache
+C:\Users\2022102020077\source\repos\lp1403\lp1403\obj\Debug\net6.0\lp1403.dll
+C:\Users\2022102020077\source\repos\lp1403\lp1403\obj\Debug\net6.0\refint\lp1403.dll
+C:\Users\2022102020077\source\repos\lp1403\lp1403\obj\Debug\net6.0\lp1403.pdb
+C:\Users\2022102020077\source\repos\lp1403\lp1403\obj\Debug\net6.0\lp1403.genruntimeconfig.cache
+C:\Users\2022102020077\source\repos\lp1403\lp1403\obj\Debug\net6.0\ref\lp1403.dll

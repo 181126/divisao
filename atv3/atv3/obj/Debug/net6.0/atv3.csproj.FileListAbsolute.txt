@@ -1,0 +1,15 @@
+C:\Users\2022102020077\source\repos\atv3\atv3\bin\Debug\net6.0\atv3.exe
+C:\Users\2022102020077\source\repos\atv3\atv3\bin\Debug\net6.0\atv3.deps.json
+C:\Users\2022102020077\source\repos\atv3\atv3\bin\Debug\net6.0\atv3.runtimeconfig.json
+C:\Users\2022102020077\source\repos\atv3\atv3\bin\Debug\net6.0\atv3.dll
+C:\Users\2022102020077\source\repos\atv3\atv3\bin\Debug\net6.0\ref\atv3.dll
+C:\Users\2022102020077\source\repos\atv3\atv3\bin\Debug\net6.0\atv3.pdb
+C:\Users\2022102020077\source\repos\atv3\atv3\obj\Debug\net6.0\atv3.csproj.AssemblyReference.cache
+C:\Users\2022102020077\source\repos\atv3\atv3\obj\Debug\net6.0\atv3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2022102020077\source\repos\atv3\atv3\obj\Debug\net6.0\atv3.AssemblyInfoInputs.cache
+C:\Users\2022102020077\source\repos\atv3\atv3\obj\Debug\net6.0\atv3.AssemblyInfo.cs
+C:\Users\2022102020077\source\repos\atv3\atv3\obj\Debug\net6.0\atv3.csproj.CoreCompileInputs.cache
+C:\Users\2022102020077\source\repos\atv3\atv3\obj\Debug\net6.0\atv3.dll
+C:\Users\2022102020077\source\repos\atv3\atv3\obj\Debug\net6.0\ref\atv3.dll
+C:\Users\2022102020077\source\repos\atv3\atv3\obj\Debug\net6.0\atv3.pdb
+C:\Users\2022102020077\source\repos\atv3\atv3\obj\Debug\net6.0\atv3.genruntimeconfig.cache

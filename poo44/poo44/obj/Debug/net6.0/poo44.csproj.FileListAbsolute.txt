@@ -1,0 +1,15 @@
+C:\Users\2022102020077\source\repos\poo44\poo44\bin\Debug\net6.0\poo44.exe
+C:\Users\2022102020077\source\repos\poo44\poo44\bin\Debug\net6.0\poo44.deps.json
+C:\Users\2022102020077\source\repos\poo44\poo44\bin\Debug\net6.0\poo44.runtimeconfig.json
+C:\Users\2022102020077\source\repos\poo44\poo44\bin\Debug\net6.0\poo44.dll
+C:\Users\2022102020077\source\repos\poo44\poo44\bin\Debug\net6.0\ref\poo44.dll
+C:\Users\2022102020077\source\repos\poo44\poo44\bin\Debug\net6.0\poo44.pdb
+C:\Users\2022102020077\source\repos\poo44\poo44\obj\Debug\net6.0\poo44.csproj.AssemblyReference.cache
+C:\Users\2022102020077\source\repos\poo44\poo44\obj\Debug\net6.0\poo44.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2022102020077\source\repos\poo44\poo44\obj\Debug\net6.0\poo44.AssemblyInfoInputs.cache
+C:\Users\2022102020077\source\repos\poo44\poo44\obj\Debug\net6.0\poo44.AssemblyInfo.cs
+C:\Users\2022102020077\source\repos\poo44\poo44\obj\Debug\net6.0\poo44.csproj.CoreCompileInputs.cache
+C:\Users\2022102020077\source\repos\poo44\poo44\obj\Debug\net6.0\poo44.dll
+C:\Users\2022102020077\source\repos\poo44\poo44\obj\Debug\net6.0\ref\poo44.dll
+C:\Users\2022102020077\source\repos\poo44\poo44\obj\Debug\net6.0\poo44.pdb
+C:\Users\2022102020077\source\repos\poo44\poo44\obj\Debug\net6.0\poo44.genruntimeconfig.cache
